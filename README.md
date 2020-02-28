@@ -7,6 +7,14 @@ The aim of my project is to recreate/reimagine a space battle scene from Stargat
 
 My aim is to try and make a space battle having a space ship travel from a space stargate to another part of the galaxy to engage the enemy.
 
+*Storyboard Idea*
+Still with what assests can work for me my plan is to have a space ship move from one stargate to another, to another region of space avoiding enemies and asteroids. With the possibility shooting enemy ships. And as said previously maybe have a swarm attack go through the stargate to destroy the enemy ships.
+ 
+ 
+ ![20200228_123223](https://user-images.githubusercontent.com/10131994/75550153-2d656480-5a29-11ea-92ff-3d715645a661.jpg)
+ 
+ ![20200228_123237](https://user-images.githubusercontent.com/10131994/75549707-33a71100-5a28-11ea-8f57-45f3e4818151.jpg)
+
 
 *Resources:*
 
